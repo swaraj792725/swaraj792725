@@ -3,8 +3,8 @@
 # Swaraj Jakanoor (`swaraj792725`)
 ### Full-Stack Software Engineer • AI Tooling & Systems Architecture
 
+[![Daylink](https://img.shields.io/badge/Daylink-daylink.in-000000?style=flat-square&logo=globe&logoColor=white)](https://daylink.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Swaraj_Jakanoor-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swaraj-jakanoor-41b12b1b6/)
-[![Website](https://img.shields.io/badge/Website-daylink.in-000000?style=flat-square&logo=globe&logoColor=white)](https://daylink.in)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0%2B-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-026E00?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
 
@@ -18,9 +18,9 @@
 
 I am a **Full-Stack Software Engineer** focused on building reliable web applications, AI systems tooling, and zero-dependency Node.js/TypeScript packages.
 
-- 💼 **Software Engineer** at **[SeamlessAssist](https://seamlessassist.com)** — Engineering production AI application backends, structured JSON recovery pipelines, and automated background workers.
 - 🚀 **Founder & Lead Architect** at **[Daylink Ltd](https://daylink.in)** ([`@daylinkltd`](https://github.com/daylinkltd)) — Developing multi-tenant SaaS platforms, ERP systems, and business automation software.
-- 🌐 **Open Source Contributor** — Authoring targeted upstream fixes for runtime utilities, font parsers, stream handlers, and CLI packages across ecosystem projects.
+- 💼 **Software Engineer** at **[SeamlessAssist](https://seamlessassist.com)**.
+- 🌐 **Open Source Contributor** — Authoring targeted upstream fixes across web frameworks, JavaScript micro-utilities, and CLI toolchains.
 
 ---
 
@@ -77,7 +77,6 @@ type EngineeringCapabilities = {
 
 ### 📫 Contact & Links
 
-- 💼 **LinkedIn**: [linkedin.com/in/swaraj-jakanoor-41b12b1b6](https://www.linkedin.com/in/swaraj-jakanoor-41b12b1b6/)
-- 🌐 **Personal Website**: [daylink.in](https://daylink.in)
-- 💼 **Work**: [SeamlessAssist](https://seamlessassist.com)
-- 🚀 **Projects Org**: [@daylinkltd](https://github.com/daylinkltd)
+- 🚀 **Daylink Ltd**: [daylink.in](https://daylink.in) | [@daylinkltd](https://github.com/daylinkltd)
+- 💼 **Software Engineer**: [SeamlessAssist](https://seamlessassist.com)
+- 🔗 **LinkedIn**: [linkedin.com/in/swaraj-jakanoor-41b12b1b6](https://www.linkedin.com/in/swaraj-jakanoor-41b12b1b6/)
