@@ -50,24 +50,14 @@ Verified empirical measurements collected across local packages running on Node.
 
 ---
 
-### 🌐 Upstream Open-Source Contributions
+### 🌐 Open Source & Upstream Development
 
-Targeted bug fixes and stability enhancements submitted to open-source infrastructure repositories:
+Active contributor across web frameworks, JavaScript runtimes, and developer tooling ecosystems:
 
-* **[Vercel / Next.js](https://github.com/vercel/next.js)**:
-  - [#99308](https://github.com/vercel/next.js/pull/99308): Handled query parameters and missing file extensions safely in font URL parsing.
-  - [#99307](https://github.com/vercel/next.js/pull/99307): Normalized line endings to CRLF in GET form submission destination URLs.
-  - [#99304](https://github.com/vercel/next.js/pull/99304): Resolved CLI package versions relative to `process.cwd()` in `next info`.
-* **[UnJS Ecosystem](https://github.com/unjs)**:
-  - [`scule#141`](https://github.com/unjs/scule/pull/141): Fixed acronym casing and leading symbol handling in `camelCase`.
-  - [`consola#453`](https://github.com/unjs/consola/pull/453): Forwarded `isRaw` parameter in `resumeLogs` to preserve raw logging output.
-  - [`ofetch#636`](https://github.com/unjs/ofetch/pull/636): Added null guards and buffer instance checks in `isJSONSerializable`.
-  - [`ufo#382`](https://github.com/unjs/ufo/pull/382): Respected query and fragment boundaries in `hasTrailingSlash`.
-* **[Google zx](https://github.com/google/zx)**:
-  - [#1516](https://github.com/google/zx/pull/1516): Handled process stream read errors in `responseToReadable`.
-* **[Facebook / Docusaurus](https://github.com/facebook/docusaurus)**:
-  - [#12514](https://github.com/facebook/docusaurus/pull/12514): Prevented double-escaping alt text and titles in MDX loader.
-  - [#12513](https://github.com/facebook/docusaurus/pull/12513): Handled malformed percent-encoded URLs in broken link checker.
+- **Web Frameworks & Tooling**: Upstream fixes and enhancements for full-stack SSR rendering, font URL parsers, MDX loaders, and CLI utilities ([`Next.js`](https://github.com/vercel/next.js), [`Docusaurus`](https://github.com/facebook/docusaurus)).
+- **Runtime Micro-Utilities**: Core fixes across string case transformers, fetch primitives, URL boundary parsers, and logging utilities ([`UnJS`](https://github.com/unjs) ecosystem: `scule`, `ofetch`, `ufo`, `consola`).
+- **CLI & Process Runtimes**: Process stream error handling and shell execution primitives ([`Google zx`](https://github.com/google/zx)).
+- **AI Tooling & SDKs**: Schema transformers, sandbox process signal handling, and tool execution utilities ([`Anthropic SDKs`](https://github.com/anthropics)).
 
 ---
 
