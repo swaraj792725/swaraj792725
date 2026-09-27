@@ -19,7 +19,7 @@
 I am a **Full-Stack Software Engineer** focused on building reliable web applications, AI systems tooling, and zero-dependency Node.js/TypeScript packages.
 
 - 🚀 **Founder & Lead Architect** at **[Daylink Ltd](https://daylink.in)** ([`@daylinkltd`](https://github.com/daylinkltd)) — Developing multi-tenant SaaS platforms, ERP systems, and business automation software.
-- 💼 **Software Engineer** at **[SeamlessAssist](https://seamlessassist.com)**.
+- 💼 Working at **[SeamlessAssist](https://seamlessassist.com)**.
 - 🌐 **Open Source Contributor** — Authoring targeted upstream fixes across web frameworks, JavaScript micro-utilities, and CLI toolchains.
 
 ---
@@ -78,5 +78,5 @@ type EngineeringCapabilities = {
 ### 📫 Contact & Links
 
 - 🚀 **Daylink Ltd**: [daylink.in](https://daylink.in) | [@daylinkltd](https://github.com/daylinkltd)
-- 💼 **Software Engineer**: [SeamlessAssist](https://seamlessassist.com)
+- 💼 **Work**: [SeamlessAssist](https://seamlessassist.com)
 - 🔗 **LinkedIn**: [linkedin.com/in/swaraj-jakanoor-41b12b1b6](https://www.linkedin.com/in/swaraj-jakanoor-41b12b1b6/)
